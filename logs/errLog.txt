@@ -1,0 +1,18 @@
+20221028	01:59:54	833304f8-79a5-4e1f-8d72-e38bb63c4682	Error: Not allowed by CORS
+20221028	02:01:18	be115672-7c55-4f8b-a987-8d0c68348ec4	Error: Not allowed by CORS
+20221028	02:01:40	15ccf26c-9b27-4d12-86db-6f7fef7c689c	Error: Not allowed by CORS
+20221028	02:02:00	165363d2-dd8a-4a96-96ad-430a0c37b0cf	Error: Not allowed by CORS
+20221028	02:02:01	b35e635d-35b1-4f29-8309-59d6e1c2df69	Error: Not allowed by CORS
+20221028	02:02:12	e7f442f8-c2ba-4e34-ac13-f7f313ea2ac3	Error: Not allowed by CORS
+20221028	02:02:13	8b4b0719-7667-4352-8ee8-6d42bba88fad	Error: Not allowed by CORS
+20221028	02:19:18	9b199e29-03b1-4e9f-92bc-2a18037dba8e	Error: Not allowed by CORS
+20221028	02:19:21	26f2fa11-c5a4-4630-9c79-c08587bad31d	Error: Not allowed by CORS
+20221028	02:56:30	1a1d78ea-1695-460e-b830-4427907b8528	Error: Not allowed by CORS
+20221028	02:56:46	21bfd8e8-adb5-450f-88af-7e5ace75c7e6	Error: Not allowed by CORS
+20221028	02:56:56	e8b1a869-e225-400a-89c3-3d578114c4d2	Error: Not allowed by CORS
+20221028	03:01:48	af3430f1-8d7d-45ff-b669-1056518584c7	SyntaxError: Unexpected token " in JSON at position 0
+20221028	03:02:03	9ea9208b-736c-4162-b72b-327745754318	SyntaxError: Unexpected token " in JSON at position 0
+20221029	14:57:24	d930cf8a-ea6e-4cb7-837c-79a245d76732	SyntaxError: Unexpected token " in JSON at position 0
+20221127	17:29:14	6bc0d4f0-4b47-4a93-b555-c152fe66ee6a	Error: ENOENT: no such file or directory, stat 'C:\Users\James\Documents\Node\Test_nodeModule - 複製\views\index.html'
+20221127	17:29:26	0782e442-4cec-4d37-bd4e-fc893e7707c9	Error: ENOENT: no such file or directory, stat 'C:\Users\James\Documents\Node\Test_nodeModule - 複製\views\index.html'
+20221127	17:29:26	5d09f4ea-73ce-4171-89b2-16545ccd08eb	Error: ENOENT: no such file or directory, stat 'C:\Users\James\Documents\Node\Test_nodeModule - 複製\views\index.html'
