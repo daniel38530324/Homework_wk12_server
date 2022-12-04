@@ -16,3 +16,4 @@
 20221127	17:29:14	6bc0d4f0-4b47-4a93-b555-c152fe66ee6a	Error: ENOENT: no such file or directory, stat 'C:\Users\James\Documents\Node\Test_nodeModule - 複製\views\index.html'
 20221127	17:29:26	0782e442-4cec-4d37-bd4e-fc893e7707c9	Error: ENOENT: no such file or directory, stat 'C:\Users\James\Documents\Node\Test_nodeModule - 複製\views\index.html'
 20221127	17:29:26	5d09f4ea-73ce-4171-89b2-16545ccd08eb	Error: ENOENT: no such file or directory, stat 'C:\Users\James\Documents\Node\Test_nodeModule - 複製\views\index.html'
+20221128	00:53:23	82f7547e-02e4-452b-8ebb-c541a7844cac	Error: ENOENT: no such file or directory, stat 'C:\Users\James\Documents\Node\react_project_server\views\pictures.html'
